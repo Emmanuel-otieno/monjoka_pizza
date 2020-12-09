@@ -7,3 +7,6 @@
 * pip install flask-mysql
 * pip install psycopg2-binary
 * pip install flask-bootstrap
+* pip install flask-wtf
+* pip install flask-script
+* python3.6 -m  pip install gunicorn
