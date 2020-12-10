@@ -20,6 +20,9 @@ moringa=#
 
 * moringa=# CREATE DATABASE pizza;
 
+##  DATABASE-URL
+ * SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://moringa:1234@localhost/pizza'
+
 
 ## Creating MySQL Table
 
